@@ -13,4 +13,4 @@ To add something to "Path" in Windows:
 - Scroll through the system variables and click on "Path"
 - Click "Edit"
 - In the new window, click "New"
-- Paste in the directory where your program is installed (in this case, yt-dlp or ffmpeg)
+- Paste in the directory where your program (in this case, yt-dlp or ffmpeg) is installed (Do NOT include the name of the executable, just the directory that it's in)
